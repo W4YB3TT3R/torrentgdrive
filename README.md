@@ -50,7 +50,7 @@ f)Then tap 👇👇
 
  Heroku is not supported now 😕 #Dead
 
-Better buy a vps 😐 and follow [this](https://github.com/gautamajay52/TorrentLeech-Gdrive#process-to-run-this-bot-on-vps)
+Better buy a vps 😐 and follow [this](https://github.com/W4YB3TT3R/torrentgdrive#process-to-run-this-bot-on-vps)
 
 ## Process to run this BOT on VPS
 
